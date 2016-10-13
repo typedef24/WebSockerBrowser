@@ -1,0 +1,12 @@
+Name: 	   MOFORKENG STEPHEN NEMBO
+Matricule: FE14A136
+	MY OWN PERSONAL VIEW OF THE BROWSER PROJECT.
+
+	This web browser project was quite interesting, challenging, inspiring and educative. Being the group leader was really challenging particularlly in aspects like gathering the group members together, division and assignment of the sub-task to the members. This is the rule of the software analyst in real world Software Engineering and I believe from this project I have got a lot of idears about software analysis and really aspire to end up in such a field.
+	Web Socker was intented to be a file browser and web browser incorporated together but due to time and some constraints, we have just managed to make it a web browser for the main time but we still stand on making our real dream come true no matter how long it takes. Even web browsing part of it still has some burgs which can likely be observed by a sophisticated user. These burgs are mainly due to the use of the third party library, webkit that we use to implement the web view and it therefore acts like a black box. These burgs include:
+-> The unsmooth browsing with multiple tabs of the browser open.
+-> The obligation to prefix any online address with http://
+-> The obligation to prefix any ofline address with file:// followed by the absolute path of   	  the web page starting from home.
+-> The inability for a link on loaded page whose target is a new tab (_blank) to be loaded     	  because the web view is not directly connected with the way new tabs are being created    	(black box);
+	We promise to fix all these burgs before the final release of Web Socker. Web Socker is an open source and so its code will be posted to GitHub: Feel free to modify Web Socker with us!
+	I think the best way we can modify and EXPAND Web Socker is by building our own web interpreter or using a more advanced third party library for the web view rather than using a "black box" that we can't interconnect it correctly with other widgets. This entails having a very good Knowledge of web technologies but we believe in ourselves and GOD and all things are possible with GOD.
